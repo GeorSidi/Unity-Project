@@ -1,2 +1,2 @@
-### A game about the solar system with goal to destroy with a meteor 4 planets.
+# A game about the solar system with goal to destroy with a meteor 4 planets.
 ## A part of code...
